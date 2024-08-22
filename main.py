@@ -4,12 +4,12 @@ import json
 import telebot
 
 ##TOKEN DETAILS
-TOKEN = "RS"
+TOKEN = "TRON"
 
 BOT_TOKEN = "7473410906:AAGInoGMtVvwAaXajDMeOtpIe1kMslP9X30"
 PAYMENT_CHANNEL = "@referandearn399" #add payment channel here including the '@' sign
 OWNER_ID = 1870276025 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@amazonindiaassociates"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+CHANNELS = ["@referandearn399"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 1 #Put daily bonus amount here!
 Mini_Withdraw = 0.5  #remove 0 and add the minimum withdraw u want to set
