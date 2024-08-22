@@ -15,7 +15,7 @@ Daily_bonus = 1 #Put daily bonus amount here!
 Mini_Withdraw = 0.5  #remove 0 and add the minimum withdraw u want to set
 Per_Refer = 0.0001 #add per refer bonus here
 
-bot = telebot.TeleBot ("7473410906:AAGInoGMtVvwAaXajDMeOtpIe1kMslP9X30")
+bot = telebot.TeleBot (7473410906:AAGInoGMtVvwAaXajDMeOtpIe1kMslP9X30)
 
 def check(id):
     for i in CHANNELS:
